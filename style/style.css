@@ -1,0 +1,56 @@
+html{
+    background-image: url(https://image.freepik.com/foto-gratis/fondo-textura-mantel-cuadros-rojo_88281-3142.jpg);
+    background-size: cover;
+}
+body{
+    background-color: rgb(206, 199, 199);
+}
+p{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    background-color: rgba(235, 102, 102, 0.808);
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+article{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+.fin{ 
+    display: flex;
+    justify-content:flex-end; 
+}
+img{
+    border-style: double;
+    border-color: turquoise;
+}
+hr{
+    color: black;
+}
+.tp{
+    display: flex;
+    justify-content: space-evenly;
+}
+.video{
+    border-style: solid;
+    color: black;
+}
+.Intro{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
